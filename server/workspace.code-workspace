@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\js-requests-solution"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-requests"
+	}
+}
